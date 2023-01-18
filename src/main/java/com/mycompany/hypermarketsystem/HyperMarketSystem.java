@@ -12,6 +12,6 @@ package com.mycompany.hypermarketsystem;
 public class HyperMarketSystem {
 
     public static void main(String[] args) {
-        System.out.println("Hello akak!");
+        System.out.println("Hello akakkkk!");
     }
 }
